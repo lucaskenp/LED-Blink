@@ -1,7 +1,7 @@
 # LED-Blink
 ____________________________________________________________
 ## Descrição
-Testando a interação entre o programa STM32CubeIDE e o Proteus, produzindo simulação de um LED Blink básico.
+Testando a interação entre o programa STM32CubeIDE e o Proteus, produzindo simulação de um LED Blink básico com o microcontrolador STM32F103C6.
 ____________________________________________________________
 ## Programas Utilizados
 * STM32CubeIDE
